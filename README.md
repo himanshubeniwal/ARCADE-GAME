@@ -5,9 +5,9 @@ Remember the game we used to play earlier, to cross the road without colliding w
 
 ## So, how to play?:
 
-1.) Player is supposed to use Up, Down, Right, Left keyboard keys.
-2.) And cross the road without having an accident with bugs.
-3.) IMPORTANT: Speed of bugs may vary. Some bugs might have very high speed, whereas some might be really slow.
+1.) Player is supposed to use Up, Down, Right, Left keyboard keys.<br />
+2.) And cross the road without having an accident with bugs.<br />
+3.) IMPORTANT: Speed of bugs may vary. Some bugs might have very high speed, whereas some might be really slow.<br />
 
 ## Files used for creating the Game:
 

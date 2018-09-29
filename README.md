@@ -11,9 +11,9 @@ Remember the game we used to play earlier, to cross the road without colliding w
 
 ## Files used for creating the Game:
 
-1.) /index.html - have the content for game, just open the page and you can start playing game from there.
-2.) /css/style.css: have the required css used in creating the game.
-3.) /images: have the required images for creating the game.
-4.) /js/app.js: Contains the JavaScript code, the backend for game is managed by it.
-5.) /js/engine.js: have the engine code for the game, no need to make any change to this. 
-6.) /js/resources.js: have all the connections between the resources for the game, no need to make any changes in this file.
+1.) /index.html - have the content for game, just open the page and you can start playing game from there. <br />
+2.) /css/style.css: have the required css used in creating the game.<br />
+3.) /images: have the required images for creating the game.<br />
+4.) /js/app.js: Contains the JavaScript code, the backend for game is managed by it.<br />
+5.) /js/engine.js: have the engine code for the game, no need to make any change to this. <br />
+6.) /js/resources.js: have all the connections between the resources for the game, no need to make any changes in this file.<br />
